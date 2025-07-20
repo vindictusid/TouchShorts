@@ -35,6 +35,13 @@
     "allowOffline": true
   },
   {
+    "id": "dfc4369ef65aaf79",
+    "username": "6281374899255",
+    "password": "touchshorts",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
